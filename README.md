@@ -1,5 +1,5 @@
 <!-- Başlık -->
-# Wearx_industries
+# Wearx - industries
 <!-- Kısa Açıklama -->
 Kısa bir proje açıklaması buraya.
 
