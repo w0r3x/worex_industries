@@ -14,6 +14,8 @@ Worex Industries Konsol Uygulaması, çeşitli araçları ve hizmetleri içeren 
 Bu Projeyi Çalıştırırken İndirilmesi Gereken Modüller:
 
 ```bash
-git clone https://github.com/kullanici/proje.git
-cd proje
-npm install
+pip install psutil
+pip install time
+pip install os
+pip install random
+
