@@ -8,7 +8,7 @@ Worex Industries Konsol Uygulaması, çeşitli araçları ve hizmetleri içeren 
   <img src="https://i.hizliresim.com/oizit5v.png" alt="Proje Logosu" width="400">
 </p>
 
-# Proje Görüntüleri
+#         Proje Görüntüleri
 <p align="center">
   <img src="https://s13.gifyu.com/images/SjLe4.gif" alt="Proje GIF'i" width="400">
 </p>
