@@ -8,6 +8,8 @@ Worex Industries Konsol Uygulaması, çeşitli araçları ve hizmetleri içeren 
   <img src="https://i.hizliresim.com/oizit5v.png" alt="Proje Logosu" width="400">
 </p>
 
+# Worex - industries
+
 <!-- Kurulum -->
 ## Kurulum
 
