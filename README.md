@@ -3,12 +3,15 @@
 <!-- Kısa Açıklama -->
 Worex Industries Konsol Uygulaması, çeşitli araçları ve hizmetleri içeren bir menü sunan basit bir kullanıcı arayüzüdür. Aşağıda sunulan seçenekler aracılığıyla farklı işlevlere erişebilir ve kullanıcı deneyimini geliştirebilirsiniz.
 
-<!-- Proje Logosu -->
+<!-- Proje Görüntüleri -->
 <p align="center">
   <img src="https://i.hizliresim.com/oizit5v.png" alt="Proje Logosu" width="400">
 </p>
 
-# Worex - industries
+# problem - contact
+<p align="center">
+  <img src="https://i.hizliresim.com/oizit5v.png" alt="Proje Logosu" width="400">
+</p>
 
 <!-- Kurulum -->
 ## Kurulum
