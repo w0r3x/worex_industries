@@ -1,5 +1,5 @@
 <!-- Başlık -->
-# Worex_Fonksiyonlu_Program
+# Wearx_industries
 <!-- Kısa Açıklama -->
 Kısa bir proje açıklaması buraya.
 
