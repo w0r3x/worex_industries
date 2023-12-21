@@ -1,7 +1,7 @@
 <!-- Başlık -->
 # Worex - industries
 <!-- Kısa Açıklama -->
-Kısa bir proje açıklaması buraya.
+Worex Industries Konsol Uygulaması, çeşitli araçları ve hizmetleri içeren bir menü sunan basit bir kullanıcı arayüzüdür. Aşağıda sunulan seçenekler aracılığıyla farklı işlevlere erişebilir ve kullanıcı deneyimini geliştirebilirsiniz.
 
 <!-- Proje Logosu veya Görseli -->
 <p align="center">
