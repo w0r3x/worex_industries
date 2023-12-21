@@ -5,7 +5,7 @@ Worex Industries Konsol Uygulaması, çeşitli araçları ve hizmetleri içeren 
 
 <!-- Proje Logosu -->
 <p align="center">
-  <img src="[url=https://hizliresim.com/oizit5v][img]https://i.hizliresim.com/oizit5v.png[/img][/url]" alt="Proje Logosu" width="200">
+  <img src="https://img.imgyukle.com/2023/12/22/yOL0MS.png" alt="Proje Logosu" width="200">
 </p>
 
 <!-- Kurulum -->
