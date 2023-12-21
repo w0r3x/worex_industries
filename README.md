@@ -1,6 +1,5 @@
 <!-- Başlık -->
-# Proje Başlığı
-
+# Worex_Fonksiyonlu_Program
 <!-- Kısa Açıklama -->
 Kısa bir proje açıklaması buraya.
 
