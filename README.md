@@ -20,6 +20,7 @@ Worex Industries Konsol Uygulaması, çeşitli araçları ve hizmetleri içeren 
 Bu Projeyi Çalıştırırken İndirilmesi Gereken Modüller:
 
 ```bash
+Açıklama: Python yazılımlı bir proje olduğu için bilgisayarınızda Python yüklü olması lazım.
 pip install psutil
 pip install time
 pip install os
