@@ -22,8 +22,8 @@ Bu Projeyi Çalıştırırken İndirilmesi Gereken Modüller:
 ```bash
 Açıklama: Python yazılımlı bir proje olduğu için bilgisayarınızda Python yüklü olması lazım.
 
-Bilgisayarınızda terminali açın ve aşağıdaki kodları girin:
------------------
+Bilgisayarınızda terminali açın ve aşağıdaki kodları girin
+----------------------------------------------------------
 pip install psutil
 pip install time
 pip install os
