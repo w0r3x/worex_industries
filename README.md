@@ -9,7 +9,7 @@ Worex Industries Konsol Uygulaması, çeşitli araçları ve hizmetleri içeren 
 </p>
 
 #         Proje Görüntüleri
-<p align="center">
+<p align="">
   <img src="https://s13.gifyu.com/images/SjLe4.gif" alt="Proje GIF'i" width="400">
 </p>
 
